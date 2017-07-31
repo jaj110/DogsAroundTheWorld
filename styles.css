@@ -1,0 +1,194 @@
+.header-site{
+                background: #000000 url("https://noupe.com/img/beautiful-background-30.jpg") repeat;
+            }
+            .h1{
+                color: white; 
+                font-family: 'Helvetica Neue', sans-serif; 
+                font-size: 100px; 
+                font-weight: bold; 
+                letter-spacing: -1px; 
+                line-height: 1; 
+                text-align: left;
+            }
+            .p1{
+                color: burlywood; 
+                font-family: 'Helvetica Neue', sans-serif; 
+                font-size: 30px; 
+                font-weight: bolder; 
+                letter-spacing:-1px; 
+                line-height: 1; 
+                text-align: left;   
+            }
+            .flex-container{
+                flex-wrap: wrap;
+                align-items: top; 
+                display: -webkit-flex;
+                display: flex;
+                -webkit-justify-content: flex-start;
+                justify-content: flex-start;
+                -webkit-flex-direction: row;
+                flex-direction: row;
+                text-align: top;
+                width: 1885px;
+                height: 4000px;
+                background: burlywood ;
+                
+            }
+            .flex-item{
+                align-items: middle;
+                background-color: burlywood;
+                width: 550px;
+                height:550px;
+                margin: 35px;
+            }
+            .button{
+                position: middle;
+                background-image: url("https://noupe.com/img/beautiful-background-30.jpg");
+                border: none;
+                color:	white ;
+                font-size: 30px;
+                font-family: 'Helvetica Neue', sans-serif; 
+                font-weight: bolder;
+                border-radius: 0px;
+                -webkit-transition-duration: 0.4s; 
+                transition-duration: 0.4s;
+                transition: all 0.3s ease-out;
+                padding: 10px;
+                margin:10px;
+            }
+            .button span {
+                cursor: pointer;
+                display: inline-block;
+                position: relative;
+                transition: 0.5s;
+            }
+            .button span:after {
+                content: '\00bb';
+                position: absolute;
+                opacity: 0;
+                top: 0;
+                right: -20px;
+                transition: 0.5s;
+            }
+            .button:hover span {
+                padding-right: 25px;
+                
+            }
+            .button:hover span:after {
+                opacity: 1;
+                right: 0;
+            }
+           .dialogoverlay{
+               display: none;
+               opacity: .8;
+               position: fixed;
+               top: 0px;
+               left: 0px;
+               background: #FFF;
+               width: 100%;
+               z-index: 10;
+           }
+           .dialogbox{
+               display: none;
+               position: fixed;
+               background: #000;
+               border-radius: 7px;
+               width: 550px;
+               z-index: 10;
+           }
+           
+            .borderimg_fra{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Civil_and_Naval_Ensign_of_France.svg/2000px-Civil_and_Naval_Ensign_of_France.svg.png) 50  stretch;
+            }
+             .borderimg_ger{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1280px-Flag_of_Germany.svg.png) 50 stretch;
+            }
+             .borderimg_can{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png) 50 stretch;
+            }
+            .borderimg_jap{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(http://flaglane.com/download/japanese-flag/japanese-flag-graphic.png) 50  stretch;
+            }
+             .borderimg_mex{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(http://www.crwflags.com/fotw/images/m/mx.gif) 50 stretch;
+            }
+            .borderimg_eng{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1280px-Flag_of_England.svg.png) 50 stretch;
+            }
+            .borderimg_egy{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2000px-Flag_of_Egypt.svg.png) 50 stretch;
+            }
+            .borderimg_bra{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(http://www.brazil.org.za/brazil-images/brazil-flag.png) 50 stretch;
+            }
+            .borderimg_vat{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(http://flagpedia.net/data/flags/big/va.png) 50 stretch;
+            }
+            .borderimg_gre{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(http://greeceflag.facts.co/greeceflagof/GreeceFlagImage.png) 50 stretch;
+            }
+            .borderimg_ned{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/2000px-Flag_of_the_Netherlands.svg.png) 50 stretch;
+            }
+             .borderimg_ire{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/2000px-Flag_of_Ireland.svg.png) 50 stretch;
+            }
+            .borderimg_nor{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(http://flaglane.com/download/norwegian-flag/norwegian-flag-medium.gif) 50 stretch;
+            }
+            .borderimg_usa{
+                border: 77px solid transparent;
+                padding: 30px;
+                border-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/300px-Flag_of_the_United_States.svg.png) 50 stretch;
+            }
+            .div_text
+            {
+                font-family: 'Helvetica Neue', sans-serif; 
+                font-size:      75px;
+                font-weight:    bolder;
+                
+            }
+            
+            
+            /* The close button */
+            .closebtn {
+                margin-left: 15px;
+                color: white;
+                font-weight: bold;
+                float: right;
+                font-size: 22px;
+                line-height: 20px;
+                cursor: pointer;
+                transition: 0.3s;
+            }
+            /* When moving the mouse over the close button */
+            .closebtn:hover {
+                color: black;
+            }
+        
