@@ -3,5 +3,36 @@
         "name": "France", 
         "description": "'Dog' in French is 'Chien'! Here we see a Chien with a cool hat next to the Eifel Tower.Hou la la!",
         "image": "http://stories.barkpost.com/wp-content/uploads/2013/11/frenchdog14.jpg"
+    },
+
+    {
+        "name": "Italy",
+        "description": "The official language of the Vatican City is Italian! In Italian, 'Dog' is 'Cane'! Here we see a cunning Cane posing as the Pope with proper posture. <br/><br/> Salute!",
+        "image": "http://images2.onionstatic.com/onion/2122/2/16x9/1300.jpg"
+    },
+    {
+        "name": "Greece",
+        "description": "In Greek 'σκύλος (skýlos)'! Here we see a stunning Skýlos wearing endearing emperor clothing. <br/><br/> Opa!",
+        "image": "https://s-media-cache-ak0.pinimg.com/originals/51/6d/b9/516db9b52fe7dda513f789ca3a653392.jpg"
+    },
+    {
+        "name": "Holland",
+        "description": "In Dutch, 'Dog' is 'Hond'! Here we see an honest Hond honoring Holland with a Holland heritage haircut. Gefeli!",
+        "image": "https://www.rover.com/blog/wp-content/uploads/2014/09/dutch-girl.jpg"
+    },
+    {
+        "name": "Ireland",
+        "description": "In Irish, 'Dog' is 'Madra'! Here we see a magnificent Madra sporting a marvelous lepperchaun costume. Top O' the Mornin'!",
+        "image": "http://www.theirishstore.com/blog/wp-content/uploads/2014/09/irish-dog-costume.jpg"
+    },
+    {
+        "name": "Norway",
+        "description": "In Norwegian, 'Dog' is 'Hund'! Here we see an honorable Hund lookimg heroic in a viking costume. Argh!",
+        "image": "https://s-media-cache-ak0.pinimg.com/originals/5c/26/61/5c266124ca96f851edfcd168e0245487.jpg"
+    },
+    {
+        "name": "USA",
+        "description": "Here we have an all-American dog looking dashing in an Uncle Sam outfit! WOW!",
+        "image": "http://cdn.lookanimals.com/pictures/images.m-magazine.com/uploads/photos/file/39675/image.png?crop=top&fit=clip&h=250&w=698"
     }
 ]
