@@ -4,7 +4,47 @@
         "description": "'Dog' in French is 'Chien'! Here we see a Chien with a cool hat next to the Eifel Tower.Hou la la!",
         "image": "http://stories.barkpost.com/wp-content/uploads/2013/11/frenchdog14.jpg"
     },
+    {
+        "name": "Germany", 
+        "description": "'Dog'' in German is 'Hund'! Here we see a handsome Hund in a traditional pair of Lederhosen. Prost!",
+        "image": "http://www.destination-munich.com/image-files/munich-oktoberfest-costume.jpg"
+    },
 
+    {
+        "name": "Canada", 
+        "description": "Canadians may refer to a 'Dog'' as either 'Dog'' or 'Chien' because those cunning Canadians speak French and English! Here we see a majestic mountie dog. Pretty cool, eh?",
+        "image": "http://www.celebritydachshund.com/wp-content/uploads/2013/08/mountie-dog.jpg"
+    },
+
+    {
+        "name": "Japan", 
+        "description": "'Dog' in Japanese is '犬 (Inu)'! Here we see an incredible Inu in an intriguing kimono. Kanpai!",
+        "image": "http://wordpress.tokyotimes.org/archives/kimono_dog02.jpg"
+    },
+
+    {
+        "name": "Mexico", 
+        "description": "'Dog' in Spanish is 'Perro'! Here we see a Perro wearing a proper poncho topped off with a spectacular sombrero. olé!",
+        "image": "http://images.buycostumes.com/mgen/merchandiser/poncho-and-sombrero-mexican-dog-costume-bc-806119.jpg?zm=1600,1600,1,0,0"
+    },
+
+    {
+        "name": "England", 
+        "description": "The English speak English, so they say 'Dog' the exact same way we do! Here we see an extatic English Bulldog unwinding on top of a Union Jack. Pip Pip, Cheerio!",
+        "image": "http://i.telegraph.co.uk/multimedia/archive/02216/bulldog_2216030k.jpg"
+    },
+
+    {
+        "name": "Egypt", 
+        "description": "The Egyptians speak Arabic. In Arabic, 'Dog is 'الكلب' or 'Alkalb'! Here we see a dog dressed as a proper Pharaoh. So stoic!",
+        "image": "https://s-media-cache-ak0.pinimg.com/736x/62/b8/47/62b84709efb9b5797777715b2b66d7b7.jpg"
+    },
+
+    {
+        "name": "Brazil", 
+        "description": "Brazilians speak Portugese! In Portugese, 'Dog' is 'Cachorro'! Here we see a Cachorro chilling in a cool soccer costume. Bom dia!",
+        "image": "http://theresident.wpms.greatbritishlife.co.uk/wp-content/uploads/sites/10/2014/06/george_7397694648791-759x1024.jpg"
+    },
     {
         "name": "Italy",
         "description": "The official language of the Vatican City is Italian! In Italian, 'Dog' is 'Cane'! Here we see a cunning Cane posing as the Pope with proper posture. <br/><br/> Salute!",
@@ -35,46 +75,5 @@
         "description": "Here we have an all-American dog looking dashing in an Uncle Sam outfit! WOW!",
         "image": "http://cdn.lookanimals.com/pictures/images.m-magazine.com/uploads/photos/file/39675/image.png?crop=top&fit=clip&h=250&w=698"
     }
-
-    {
-        "name": "Germany", 
-        "description": "'Dog'' in German is 'Hund'! Here we see a handsome Hund in a traditional pair of Lederhosen. Prost!",
-        "image": "http://www.destination-munich.com/image-files/munich-oktoberfest-costume.jpg"
-    }
-
-    {
-        "name": "Canada", 
-        "description": "Canadians may refer to a 'Dog'' as either 'Dog'' or 'Chien' because those cunning Canadians speak French and English! Here we see a majestic mountie dog. Pretty cool, eh?",
-        "image": "http://www.celebritydachshund.com/wp-content/uploads/2013/08/mountie-dog.jpg"
-    }
-
-    {
-        "name": "Japan", 
-        "description": "'Dog' in Japanese is '犬 (Inu)'! Here we see an incredible Inu in an intriguing kimono. Kanpai!",
-        "image": "http://wordpress.tokyotimes.org/archives/kimono_dog02.jpg"
-    }
-
-    {
-        "name": "Mexico", 
-        "description": "'Dog' in Spanish is 'Perro'! Here we see a Perro wearing a proper poncho topped off with a spectacular sombrero. olé!",
-        "image": "http://images.buycostumes.com/mgen/merchandiser/poncho-and-sombrero-mexican-dog-costume-bc-806119.jpg?zm=1600,1600,1,0,0"
-    }
-
-    {
-        "name": "England", 
-        "description": "The English speak English, so they say 'Dog' the exact same way we do! Here we see an extatic English Bulldog unwinding on top of a Union Jack. Pip Pip, Cheerio!",
-        "image": "http://i.telegraph.co.uk/multimedia/archive/02216/bulldog_2216030k.jpg"
-    }
-
-    {
-        "name": "Egypt", 
-        "description": "The Egyptians speak Arabic. In Arabic, 'Dog is 'الكلب' or 'Alkalb'! Here we see a dog dressed as a proper Pharaoh. So stoic!",
-        "image": "https://s-media-cache-ak0.pinimg.com/736x/62/b8/47/62b84709efb9b5797777715b2b66d7b7.jpg"
-    }
-
-    {
-        "name": "Brazil", 
-        "description": "Brazilians speak Portugese! In Portugese, 'Dog' is 'Cachorro'! Here we see a Cachorro chilling in a cool soccer costume. Bom dia!",
-        "image": "http://theresident.wpms.greatbritishlife.co.uk/wp-content/uploads/sites/10/2014/06/george_7397694648791-759x1024.jpg"
-    }
+    
 ]
