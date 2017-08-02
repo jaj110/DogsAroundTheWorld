@@ -1,0 +1,4 @@
+app.controller('dogController', function()  {
+    
+
+})

@@ -1,4 +1,14 @@
-
+ var config = {
+            apiKey: "AIzaSyAzrnLrwQYGwuF_DpKHF8yJNtJ55AfLzBg",
+            authDomain: "dogs-around-the-world.firebaseapp.com",
+            databaseURL: "https://dogs-around-the-world.firebaseio.com"
+        };
+firebase.initializeApp(config);
+var database = firebase.database();
+//Declare app modules
+var app = angular.module('dog');
+      
+      
             function frenchDog(){
                 $(function () {
                 $("#dialog").dialog({
